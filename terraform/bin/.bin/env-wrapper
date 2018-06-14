@@ -14,6 +14,7 @@ print_usage() {
 [ "$#" -eq 0 ] && print_usage
 
 # Set up variables
+terraform init
 
 bin_name=$(basename $0)
 bin_components=(${bin_name//-/ }) # Split binary name on a dash
