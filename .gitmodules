@@ -3,4 +3,4 @@
 	url = https://github.com/jpmorganchase/constellation.git
 [submodule "dependencies/quorum"]
 	path = dependencies/quorum
-	url = https://github.com/Szkered/quorum.git
+	url = https://github.com/vsmk98/quorum.git
